@@ -48,7 +48,8 @@ export default StyleSheet.create({
     textAlign: "center"
   },
   weekendDateName: {
-    color: "#A7A7A7",
+    // color: "#A7A7A7",
+    color: "red",
     textAlign: "center"
   },
   dateNumber: {
